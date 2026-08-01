@@ -24,6 +24,7 @@ The system is programmed to perform different movement sequences:
 - Arduino IDE
 
 <img width="2462" height="1500" alt="image" src="https://github.com/user-attachments/assets/98bfbd43-4f20-4dd4-af6f-d0a0140dfafb" />
+https://www.tinkercad.com/things/0c6uzhfbsCH-dc-motor-control-l293d
 
 ## Circuit Design
 
