@@ -36,5 +36,4 @@ Each side is controlled through the L293D motor driver to achieve forward, backw
 
 👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/0c6uzhfbsCH-dc-motor-control-l293d)
 
-👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/3CgCQiaMN5x-ultrasonicservocontrol)
 
