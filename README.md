@@ -1,9 +1,6 @@
 # Arduino DC Motor Control Using L293D
 
-## Project Description
-
 This project demonstrates controlling four DC motors using an Arduino Uno and an L293D motor driver.
-
 The system is programmed to perform different movement sequences:
 - Move forward for 30 seconds.
 - Move backward for 60 seconds.
@@ -34,6 +31,6 @@ Each side is controlled through the L293D motor driver to achieve forward, backw
 
 <img width="2462" height="1500" alt="image" src="https://github.com/user-attachments/assets/98bfbd43-4f20-4dd4-af6f-d0a0140dfafb" />
 
-👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/0c6uzhfbsCH-dc-motor-control-l293d)
+# 👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/0c6uzhfbsCH-dc-motor-control-l293d)
 
 
