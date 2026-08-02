@@ -23,11 +23,6 @@ The system is programmed to perform different movement sequences:
 - Tinkercad Circuits
 - Arduino IDE
 
-<img width="2462" height="1500" alt="image" src="https://github.com/user-attachments/assets/98bfbd43-4f20-4dd4-af6f-d0a0140dfafb" />
-👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/0c6uzhfbsCH-dc-motor-control-l293d)
-👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/3CgCQiaMN5x-ultrasonicservocontrol)
-
-
 ## Circuit Design
 
 The four DC motors are grouped into two sides:
@@ -35,3 +30,11 @@ The four DC motors are grouped into two sides:
 - Two motors for the left side.
 
 Each side is controlled through the L293D motor driver to achieve forward, backward, and turning movements.
+
+
+<img width="2462" height="1500" alt="image" src="https://github.com/user-attachments/assets/98bfbd43-4f20-4dd4-af6f-d0a0140dfafb" />
+
+👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/0c6uzhfbsCH-dc-motor-control-l293d)
+
+👉🏻 [Explore Live Tinkercad Circuit Model](https://www.tinkercad.com/things/3CgCQiaMN5x-ultrasonicservocontrol)
+
